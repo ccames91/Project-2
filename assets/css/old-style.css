@@ -1,10 +1,9 @@
 body{ 
     margin: 0;
     padding: 0;
-    background-image: url('../images/howitzer.webp');
+    background-color: white;
     align-items: center;
     justify-content: center;
-    
 }
 
 .container{
@@ -21,7 +20,7 @@ body{
     align-items: center;
     text-align: center;
     font-size: 10px;
-    background-color: chartreuse;
+    background-color: rgb(0, 255, 242);
     color: rgb(253, 6, 6);
     padding: 30px 30px;
     border-radius: 20px;
@@ -58,31 +57,9 @@ body{
 
  }
 
- #my-applications {
-    color: green;
-    background-color: orchid;
-   flex: 0 0 60%;
-    font-size: 30px;
-    padding: 25px;
-    width: 55%;
-    height: 40%;
- }
-
- .main {
-   display: flex;
-
- }
-
- #contact-me {
-   
-    width: 35%;
-    height: 25%;
-    margin: 2px;
- }
-
  .footer {
  width:400px;
- margin:auto;
+ margin:auto
  }
 
  .footerwrap {
